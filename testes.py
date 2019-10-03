@@ -1,5 +1,5 @@
-from  import somar
+from principal import somar
 
 
-def somar(n, n2):
-  return n + n2
+def teste_1():
+  assert somar(5, 6) == 11
