@@ -1,5 +1,5 @@
 A = 20
-B = 40
+B = 20
 c = A + B
 
-print(C==c)
+print(a==b)
