@@ -1,5 +1,5 @@
-from principal import somar
+a = 10
+b = 10
+c = a + b
 
-
-def teste_1():
-  assert somar(5, 6) == 10
+print (c)
