@@ -1,5 +1,5 @@
-a = 20
-b = 20
-c = a + b
+from  import somar
 
-print(a==b)
+
+def somar(n, n2):
+  return n + n2
