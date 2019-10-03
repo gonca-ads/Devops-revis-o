@@ -1,5 +1,5 @@
-A = 20
-B = 20
-c = A + B
+a = 20
+b = 20
+c = a + b
 
 print(a==b)
