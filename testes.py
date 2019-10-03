@@ -1,5 +1,5 @@
-a = 10
-b = 10
-c = a + b
+from principal import somar
 
-print (d)
+
+def teste_1():
+  assert somar(5, 6) == 11
